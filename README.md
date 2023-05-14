@@ -1,0 +1,10 @@
+# TrendyVerse
+![Screenshot_20230107_003406](https://github.com/krrish9958/TrendyVerse/assets/114428213/77b34491-dbc5-4500-a740-129bd4d8e48f)
+![Screenshot_20230107_003718](https://github.com/krrish9958/TrendyVerse/assets/114428213/64795222-dbee-4b90-953f-488f49e45ba3)
+![Screenshot_20230107_003855](https://github.com/krrish9958/TrendyVerse/assets/114428213/f8458052-655a-4178-8099-3029eafd8bec)
+![Screenshot_20230107_004010](https://github.com/krrish9958/TrendyVerse/assets/114428213/f7f40be5-14ec-4873-a806-52a5deedd88f)
+![Screenshot_20230107_004049](https://github.com/krrish9958/TrendyVerse/assets/114428213/f9a3fb44-a615-4493-a08a-0a277a18b16b)
+![Screenshot_20230107_004256](https://github.com/krrish9958/TrendyVerse/assets/114428213/a557f7c3-2203-48c1-b9d3-c683e0d84add)
+![Screenshot_20230107_004311](https://github.com/krrish9958/TrendyVerse/assets/114428213/a9e52191-4d1f-478c-b1fe-dab75d32a171)
+![Screenshot_20230107_004401](https://github.com/krrish9958/TrendyVerse/assets/114428213/f15d4763-40bd-477e-bd25-555cdbf19e7e)
+![Screenshot_20230107_004424](https://github.com/krrish9958/TrendyVerse/assets/114428213/1574929f-3aef-4e8a-89c5-505cb5ee8caa)
