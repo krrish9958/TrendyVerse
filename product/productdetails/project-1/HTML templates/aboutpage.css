@@ -1,0 +1,29 @@
+.abt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 91px;
+    color: rgb(0, 0, 0);
+    background:linear-gradient(rgba(0, 0, 0, 0.537),rgba(0, 0, 0, 0.532)), url(/images/abtbnner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+    margin-top: 60px;
+    z-index: 2;
+}
+.abt h1{
+    color: white;
+    font-size: 70px;
+
+}
+
+body{
+    background: none;
+}
+
+.abt-footer{
+    position:none;
+    margin-top: 0;
+}
+

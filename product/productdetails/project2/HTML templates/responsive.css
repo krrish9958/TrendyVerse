@@ -1,0 +1,167 @@
+@media only screen and (max-width:700px) {
+    * {
+        overflow: hidden;
+    }
+
+    /* ------------NavBar---------------- */
+    .navbar {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+        width: -150px;
+        text-align: left;
+        height: 3%;
+    }
+
+
+    .logo {
+        margin: auto 10px;
+    }
+
+    .logo a {
+        font-size: 16px;
+    }
+
+    .nav-menu {
+        font-weight: 900;
+        color: white;
+        position: fixed;
+        top: 1%;
+        left: 44%;
+        display: block;
+    }
+
+    .cart-res {
+        font-weight: 900;
+        color: white;
+        position: fixed;
+        top: 1%;
+        left: 41%;
+        display: block;
+    }
+
+    .navul {
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+        position: fixed;
+        top: 2%;
+        left: 28%;
+        background: black;
+        margin-top: 15px;
+        line-height: 16px;
+        font-size: 14px;
+    }
+
+    #items-res {
+        display: none;
+    }
+
+    .navul li {
+        margin: 5px;
+    }
+
+    .login {
+        display: none;
+    }
+
+    /* ------------------Slider---------------- */
+    .home {
+        margin-top: 57px;
+    }
+
+    .slider {
+        height: 220px;
+        width: 507px;
+        margin: 0 1%;
+    }
+
+    .slides {
+        height: 220px;
+    }
+
+    .slide img {
+        height: 220px;
+        width: 100%;
+    }
+
+    .nav-auto {
+        display: none;
+    }
+
+    .nav-manual {
+        display: none;
+    }
+
+    /* -------------Section2----------------- */
+
+    .section2 {
+        margin-top: 7px;
+    }
+
+    .heading {
+        margin-top: 8px;
+        font-size: 23px;
+    }
+
+    .sub-heading {
+        font-size: 14px;
+    }
+
+    .featureproduct {
+        margin-top: -4px;
+    }
+
+    .product {
+        padding: 2px;
+        flex-basis: 34%;
+    }
+
+    .product img {
+        height: 170px;
+        width: 132px;
+    }
+
+    .product-text h2 {
+        margin-top: 0;
+        font-size: 10px;
+    }
+
+    .product-text h1 {
+        font-size: 13px;
+        line-height: 15px;
+        margin-top: 2px;
+    }
+
+    .product-text h3 {
+        font-size: 12px;
+        margin-top: 0;
+    }
+
+    .btn-cart{
+        padding: 6px;
+        margin-top: -2px;
+ 
+    }
+    
+    .btn{
+        font-size: 12px;
+        padding: 7px 12px;
+    }
+    /* ------------Section3------------- */
+
+    .banner-cls{
+        height: 13%;
+    }
+
+    .banner-text {
+        font-size: 20px;
+    }
+
+    /* ------------Section 4-------------- */
+
+    .banner-img img{
+        height: 250px;
+    }
+}
